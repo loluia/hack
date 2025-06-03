@@ -3,4 +3,4 @@ namescript = "WRK9",
 logoscript = "116112376000531",
 tacgia = "WRK9"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/indexeduu/BF-NewVer/refs/heads/main/V3New.lua"))()
